@@ -1,3 +1,3 @@
-# Banco de Dados 1
+# Banco de Dados I
 ## Projeto semestral
 ### DPG Games
